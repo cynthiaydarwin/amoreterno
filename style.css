@@ -1,1 +1,18 @@
-
+body{
+    margin: 0px;
+}
+*{
+    box-sizing: boder-box;
+}
+.background{
+    background: #2C2C2C;
+    display: flex;
+    height: 100vh;
+}
+.gallery{
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    gap: 16px;
+    perspective: 800px;
+}
