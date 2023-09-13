@@ -13,8 +13,8 @@ body{
     margin: auto;
     display: flex;
     justify-content: space-between;
-    gap: 16px;
-    perspective: 800px;
+    gap: 20px;
+    perspective: 900px;
 }
 .card{
     position: relative;
